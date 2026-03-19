@@ -1,0 +1,1 @@
+CHATBOTS_COLLECTION = "chatbots"

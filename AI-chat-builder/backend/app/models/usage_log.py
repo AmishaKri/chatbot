@@ -1,0 +1,2 @@
+USAGE_LOGS_COLLECTION = "usage_logs"
+PROVIDER_USAGE_COLLECTION = "provider_usage"

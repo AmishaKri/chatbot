@@ -1,0 +1,1 @@
+ORGANIZATIONS_COLLECTION = "organizations"

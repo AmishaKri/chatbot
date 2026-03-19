@@ -1,0 +1,1 @@
+EMBEDDINGS_COLLECTION = "embeddings"

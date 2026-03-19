@@ -1,0 +1,1 @@
+CONVERSATIONS_COLLECTION = "conversations"
